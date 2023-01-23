@@ -35,6 +35,8 @@ Open your browser and configure metamask. Create a wallet and store your```Secre
 
 ```npm i```
 
+```npm install -g truffle```
+
 ```truffle compile```
 
 ```truffle migrate```or```truffle migrate --reset``` for subsequent runs
