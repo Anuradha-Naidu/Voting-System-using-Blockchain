@@ -27,7 +27,7 @@ Importing an account from ganache to metamask:
 
 #### Cloning the project
 
-```git clone https://github.com/faizscripts/blockchain-voting-system```
+```git clone link```
 
 ```cd blockchain-voting-system```
 
